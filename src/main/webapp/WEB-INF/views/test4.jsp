@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-이정우가 만든 jsp
+이정우가 만든 jsp11
 </body>
 </html>
 
