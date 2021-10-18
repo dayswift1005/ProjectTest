@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-내가 만들어씀
+아무내용
 </body>
 </html>
