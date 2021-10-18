@@ -8,7 +8,7 @@
 </head>
 <body>
 내용좀변경해봄
-ㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇ
+ㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅇㅁㄴㅇㅁㄴㅇㅁㄴ
 <jsp:forward page="/sample/sampleJsp" />
 </body>
 </html>
