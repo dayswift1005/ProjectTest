@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+내용좀변경해봄
+
 <jsp:forward page="/sample/sampleJsp" />
 </body>
 </html>
